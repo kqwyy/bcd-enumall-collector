@@ -15,5 +15,5 @@ Right-click -> Run as administrator
 ### ⚠️ Run as Administrator  
 #### Simple Launcher 
 ```powershell
-iex (iwr 'https://raw.githubusercontent.com/athexccathexcc/bcd-enumall-collector/main/athex-bcd.ps1').Content
+iex (iwr 'https://raw.githubusercontent.com/athexcc/bcd-enumall-collector/main/athex-bcd.ps1').Content
 ```
